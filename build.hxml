@@ -1,0 +1,6 @@
+-js main.js
+-main Main
+-dce full
+-D analyzer
+-D analyzer-module
+--macro exclude('Test')

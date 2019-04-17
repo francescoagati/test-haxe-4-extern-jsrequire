@@ -1,0 +1,12 @@
+{
+  "name": "test-haxe-extern-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "haxe": "^5.0.10"
+  },
+  "haxeDependencies": {
+    "haxe": "4.0.0-rc.2"
+  }  
+}
